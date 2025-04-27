@@ -1,0 +1,1 @@
+/home/vitorio/Downloads/prototipo/build/app/intermediates/cxx/RelWithDebInfo/1r452722/obj/arm64-v8a

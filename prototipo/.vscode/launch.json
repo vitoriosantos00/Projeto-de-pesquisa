@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (M2003J15SC)",
+            "program": "lib/main.dart",
+            "deviceId": "192.168.1.104:5555",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}

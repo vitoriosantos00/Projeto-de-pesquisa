@@ -1,0 +1,2 @@
+/home/vitorio/Downloads/prototipo/android/app/.cxx/RelWithDebInfo/1r452722/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/vitorio/Downloads/prototipo/android/app/.cxx/RelWithDebInfo/1r452722/arm64-v8a/CMakeFiles/rebuild_cache.dir
